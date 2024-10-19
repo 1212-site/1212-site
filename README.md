@@ -7,5 +7,5 @@
 - Email: [ristinaesb@gmail.com].
 - LinkedIn: [https://www.linkedin.com/in/ristinaesb/)
 
-## 📈 Ristinaesb's Stats
+## 📈 Stats
 [![Ristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=1212-site)](https://github.com/1212-site/github-readme-stats)
